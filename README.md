@@ -5,3 +5,11 @@ This Python code calculates the estimated power and energy requirements of an el
 - Converts GPS data into energy consumption estimates for electric motorcycles.
 - Accounts for factors such as vehicle mass, air density, drag coefficients, and efficiency.
 - Generates visualizations of power profiles and energy consumption over time and distance.
+
+# Installation
+
+To use this software, you should have Jupyter Notebook and Python installed on your system. Follow these steps:
+
+1. Download the file from the repository.
+2. Open the file in Jupyter Notebook.
+
