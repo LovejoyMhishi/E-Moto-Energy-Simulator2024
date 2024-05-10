@@ -8,8 +8,14 @@ This Python code calculates the estimated power and energy requirements of an el
 
 # Installation
 
-To use this software, you should have Jupyter Notebook and Python installed on your system. Follow these steps:
+To use this software, you should have Jupyter Notebook and Python 3.0 installed on your system. Follow these steps:
 
 1. Download the file from the repository.
 2. Open the file in Jupyter Notebook.
 
+# Usage
+- Ensure you have the necessary Python libraries installed (pandas, numpy, matplotlib, geopy, scipy).
+- Run the code in Jupyter Notebook.
+- Input your GPS data in the provided format.
+- Ensure your GPS data has the same format as the CSV file provided in the repository.
+- The software will calculate the power and energy requirements of your electric motorcycle for the trip with the given GPS data.
